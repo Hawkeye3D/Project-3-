@@ -1,0 +1,42 @@
+
+<html>
+	<body>
+		<table>
+			<thead>
+				<tr>
+					<td colspan="12">Elspot prices in SEK/MWh</td>
+				</tr><tr>
+					<td colspan="12">Data was last updated 30-10-2015</td>
+				</tr><tr>
+					<td></td><td style="text-align:center;">SYS</td><td style="text-align:center;">SE</td><td style="text-align:center;">FI</td><td style="text-align:center;">DK1</td><td style="text-align:center;">DK2</td><td style="text-align:center;">Oslo</td><td style="text-align:center;">Kr.sand</td><td style="text-align:center;">Bergen</td><td style="text-align:center;">Molde</td><td style="text-align:center;">Tr.heim</td><td style="text-align:center;">Tromsø</td>
+				</tr>
+			</thead><tbody>
+				<tr>
+					<td style="text-align:left;">00&nbsp;-&nbsp;Jan</td><td style="text-align:right;">139,31</td><td style="text-align:right;">160,43</td><td style="text-align:right;">160,43</td><td style="text-align:right;">152,69</td><td style="text-align:right;"></td><td style="text-align:right;">131,22</td><td style="text-align:right;">131,22</td><td style="text-align:right;">131,22</td><td style="text-align:right;">149,46</td><td style="text-align:right;">149,46</td><td style="text-align:right;">149,46</td>
+				</tr><tr>
+					<td style="text-align:left;">00&nbsp;-&nbsp;Feb</td><td style="text-align:right;">109,72</td><td style="text-align:right;">109,93</td><td style="text-align:right;">109,93</td><td style="text-align:right;">121,79</td><td style="text-align:right;"></td><td style="text-align:right;">109,52</td><td style="text-align:right;">109,52</td><td style="text-align:right;">109,52</td><td style="text-align:right;">109,82</td><td style="text-align:right;">109,82</td><td style="text-align:right;">109,82</td>
+				</tr><tr>
+					<td style="text-align:left;">00&nbsp;-&nbsp;Mar</td><td style="text-align:right;">98,81</td><td style="text-align:right;">103,37</td><td style="text-align:right;">104,85</td><td style="text-align:right;">121,96</td><td style="text-align:right;"></td><td style="text-align:right;">95,21</td><td style="text-align:right;">95,21</td><td style="text-align:right;">95,21</td><td style="text-align:right;">99,95</td><td style="text-align:right;">99,95</td><td style="text-align:right;">99,95</td>
+				</tr><tr>
+					<td style="text-align:left;">00&nbsp;-&nbsp;Apr</td><td style="text-align:right;">105,89</td><td style="text-align:right;">107,57</td><td style="text-align:right;">107,65</td><td style="text-align:right;">131,80</td><td style="text-align:right;"></td><td style="text-align:right;">104,67</td><td style="text-align:right;">104,67</td><td style="text-align:right;">104,67</td><td style="text-align:right;">105,30</td><td style="text-align:right;">105,30</td><td style="text-align:right;">105,30</td>
+				</tr><tr>
+					<td style="text-align:left;">00&nbsp;-&nbsp;May</td><td style="text-align:right;">78,33</td><td style="text-align:right;">117,52</td><td style="text-align:right;">117,96</td><td style="text-align:right;">138,20</td><td style="text-align:right;"></td><td style="text-align:right;">61,35</td><td style="text-align:right;">61,35</td><td style="text-align:right;">61,35</td><td style="text-align:right;">77,14</td><td style="text-align:right;">77,14</td><td style="text-align:right;">77,14</td>
+				</tr><tr>
+					<td style="text-align:left;">00&nbsp;-&nbsp;Jun</td><td style="text-align:right;">86,70</td><td style="text-align:right;">104,91</td><td style="text-align:right;">105,34</td><td style="text-align:right;">121,08</td><td style="text-align:right;"></td><td style="text-align:right;">75,69</td><td style="text-align:right;">75,69</td><td style="text-align:right;">75,69</td><td style="text-align:right;">81,39</td><td style="text-align:right;">81,39</td><td style="text-align:right;">81,39</td>
+				</tr><tr>
+					<td style="text-align:left;">00&nbsp;-&nbsp;Jul</td><td style="text-align:right;">53,39</td><td style="text-align:right;">66,46</td><td style="text-align:right;">82,14</td><td style="text-align:right;">86,37</td><td style="text-align:right;"></td><td style="text-align:right;">49,96</td><td style="text-align:right;">49,96</td><td style="text-align:right;">49,96</td><td style="text-align:right;">43,22</td><td style="text-align:right;">43,22</td><td style="text-align:right;">43,22</td>
+				</tr><tr>
+					<td style="text-align:left;">00&nbsp;-&nbsp;Aug</td><td style="text-align:right;">82,10</td><td style="text-align:right;">98,33</td><td style="text-align:right;">122,53</td><td style="text-align:right;">139,86</td><td style="text-align:right;"></td><td style="text-align:right;">78,51</td><td style="text-align:right;">78,51</td><td style="text-align:right;">78,51</td><td style="text-align:right;">63,82</td><td style="text-align:right;">63,82</td><td style="text-align:right;">63,82</td>
+				</tr><tr>
+					<td style="text-align:left;">00&nbsp;-&nbsp;Sep</td><td style="text-align:right;">119,18</td><td style="text-align:right;">139,31</td><td style="text-align:right;">157,17</td><td style="text-align:right;">172,25</td><td style="text-align:right;"></td><td style="text-align:right;">108,67</td><td style="text-align:right;">108,67</td><td style="text-align:right;">108,67</td><td style="text-align:right;">102,33</td><td style="text-align:right;">102,33</td><td style="text-align:right;">102,33</td>
+				</tr><tr>
+					<td style="text-align:left;">00&nbsp;-&nbsp;Oct</td><td style="text-align:right;">131,38</td><td style="text-align:right;">138,26</td><td style="text-align:right;">142,41</td><td style="text-align:right;">157,05</td><td style="text-align:right;">155,48</td><td style="text-align:right;">126,42</td><td style="text-align:right;">126,42</td><td style="text-align:right;">126,42</td><td style="text-align:right;">138,35</td><td style="text-align:right;">138,35</td><td style="text-align:right;">133,97</td>
+				</tr><tr>
+					<td style="text-align:left;">00&nbsp;-&nbsp;Nov</td><td style="text-align:right;">144,53</td><td style="text-align:right;">148,25</td><td style="text-align:right;">148,25</td><td style="text-align:right;">160,31</td><td style="text-align:right;">164,05</td><td style="text-align:right;">141,40</td><td style="text-align:right;">141,40</td><td style="text-align:right;">141,40</td><td style="text-align:right;">151,82</td><td style="text-align:right;">151,82</td><td style="text-align:right;">147,53</td>
+				</tr><tr>
+					<td style="text-align:left;">00&nbsp;-&nbsp;Dec</td><td style="text-align:right;">146,90</td><td style="text-align:right;">150,55</td><td style="text-align:right;">150,55</td><td style="text-align:right;">160,47</td><td style="text-align:right;">152,34</td><td style="text-align:right;">144,15</td><td style="text-align:right;">144,15</td><td style="text-align:right;">144,15</td><td style="text-align:right;">150,41</td><td style="text-align:right;">150,41</td><td style="text-align:right;">150,12</td>
+				</tr>
+			</tbody>
+		</table>
+	</body>
+</html>

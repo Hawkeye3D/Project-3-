@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Energyindex</title>
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/energy-16-185844.png">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700">
+    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="assets/css/Data-Table-1.css">
+    <link rel="stylesheet" href="assets/css/Data-Table.css">
+    <link rel="stylesheet" href="assets/css/Footer-Basic.css">
+    <link rel="stylesheet" href="assets/css/Footer-Dark.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.15/css/dataTables.bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/iframe.css">
+    <link rel="stylesheet" href="assets/css/Navigation-Clean.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+
+<body>
+    <div>
+        <nav class="navbar navbar-light navbar-expand-md navigation-clean">
+            <div class="container"><img src="assets/img/energy-57-185844.png" style="background-color: #3621b5;margin-right: 40;"><a class="navbar-brand text-success border rounded border-warning" href="#" style="margin: 10;filter: grayscale(41%) sepia(66%);">&nbsp; Mobius Energy &nbsp;</a>
+                <button
+                    data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+                    <div class="collapse navbar-collapse" id="navcol-1">
+                        <ul class="nav navbar-nav ml-auto">
+                            <li class="nav-item" role="presentation"><a class="nav-link active" href="#">US</a></li>
+                            <li class="nav-item" role="presentation"><a class="nav-link" href="#">Swedish</a></li>
+                            <li class="nav-item" role="presentation"><a class="nav-link" href="#">Third Item</a></li>
+                            <li class="dropdown nav-item"><a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" href="#">Dropdown </a>
+                                <div class="dropdown-menu" role="menu"><a class="dropdown-item" role="presentation" href="#">First Item</a><a class="dropdown-item" role="presentation" href="#">Second Item</a><a class="dropdown-item" role="presentation" href="#">Third Item</a></div>
+                            </li>
+                        </ul>
+                    </div>
+            </div>
+        </nav>
+    </div>
+    <div class="container">
+        <div class="jumbotron">
+            <h2>US Natural Renewable Electrical Energy Sources</h2>
+            <p>Clean, natural energy sources.</p>
+            <p></p>
+            <div class="card-group">
+                <div class="card"><img class="card-img-top w-100 d-block" src="https://www.nrel.gov/gis/images/solar/solar_ghi_2018_usa_scale_01.jpg">
+                    <div class="card-body">
+                        <h4 class="card-title">Solar Irradiance</h4>
+                        <p class="card-text">The power per unit area of sunlight cast upon the Earth. &nbsp;In areas of the US where there is lots of sunlight year round, many homes and businesses harness that free energy. &nbsp;It is common to build the price of solar panels
+                            into the cost of a &nbsp;new home.</p><button class="btn btn-primary d-xl-flex align-items-center align-self-center" type="button">More...</button></div>
+                </div>
+                <div class="card"><img class="card-img-top w-100 d-block" src="https://www.nrel.gov/gis/images/80m_wind/awstwspd80onoffbigC3-3dpi600.jpg">
+                    <div class="card-body">
+                        <h4 class="card-title">Wind Velocity Map</h4>
+                        <p class="card-text">This wind velocity heat map illustrates the central US wind corridor, and the coastal wind resources. &nbsp;The wind corridor runs mostly across lightly populated states. &nbsp;A typical wind generator produces 2-4 MW of power,
+                            and cost 2-3 million dollars to construct. From inception to completion is about 3 years, far less than for standard power generation, where it can take decades of planning to builld and decades to decommission.</p>
+                        <button
+                            class="btn btn-primary" type="button">More...</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-auto col-md-12 offset-xl-0 align-self-center"><div><iframe id="eia_widget" style="width:100%;height:500px" src="//www.eia.gov/opendata/embed/iframe.php?series_id=ELEC.GEN.ALL-US-99.M;ELEC.GEN.COW-US-99.M;ELEC.GEN.NG-US-99.M;ELEC.GEN.NUC-US-99.M;ELEC.GEN.HYC-US-99.M;ELEC.GEN.WND-US-99.M;ELEC.GEN.TSN-US-99.M&analysis=none" load="iframe_load"></iframe></div>
+</div>
+            </div>
+            <div class="row">
+                <div class="col-md-6"><div><iframe id="eia_widget" style="width:100%;height:500px" src="//www.eia.gov/opendata/embed/iframe.php?series_id=ELEC.GEN.ALL-US-99.M;ELEC.GEN.COW-US-99.M;ELEC.GEN.NG-US-99.M;ELEC.GEN.NUC-US-99.M;ELEC.GEN.HYC-US-99.M&analysis=indexpct" load="iframe_load"></iframe></div>
+</div>
+                <div class="col-md-6"><div><iframe id="eia_widget" style="width:100%;height:500px" src="//www.eia.gov/opendata/embed/iframe.php?series_id=ELEC.GEN.AOR-US-99.M;ELEC.GEN.WND-US-99.M;ELEC.GEN.SUN-US-99.M;ELEC.GEN.GEO-US-99.M;ELEC.GEN.WWW-US-99.M;ELEC.GEN.WAS-US-99.M&analysis=none" load="iframe_load"></iframe></div></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xl-8 offset-xl-2"><div><iframe id="eia_widget" style="width:100%;height:500px" src="//www.eia.gov/opendata/embed/iframe.php?series_id=ELEC.PRICE.US-ALL.M;ELEC.PRICE.US-RES.M;ELEC.PRICE.US-COM.M;ELEC.PRICE.US-IND.M&start=201001&end=201912&analysis=indexval" load="iframe_load"></iframe></div></div>
+        </div>
+    </div>
+    <div class="footer-dark">
+        <div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6 col-md-3 item">
+                        <h3>Services</h3>
+                        <ul>
+                            <li><a href="#">Data Analytics</a></li>
+                            <li><a href="#">Development</a></li>
+                            <li><a href="#">Energy Projections</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 col-md-3 item">
+                        <h3>About</h3>
+                        <ul>
+                            <li><a href="#">Company</a>: Mobius Energy</li>
+                            <li><a href="#">Team</a>: Kline</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 item text">
+                        <h3>Mobius Energy&nbsp;</h3>
+                        <p></p>
+                    </div>
+                    <div class="col item social"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-instagram"></i></a></div>
+                </div>
+                <p class="copyright">Mobius Energy © 2019</p>
+            </div>
+        </div>
+        <footer></footer>
+    </div>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.15/js/dataTables.bootstrap.min.js"></script>
+</body>
+
+</html>

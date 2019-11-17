@@ -1,0 +1,42 @@
+
+<html>
+	<body>
+		<table>
+			<thead>
+				<tr>
+					<td colspan="13">Elspot prices in SEK/MWh</td>
+				</tr><tr>
+					<td colspan="13">Data was last updated 31-12-2018</td>
+				</tr><tr>
+					<td></td><td style="text-align:center;">SYS</td><td style="text-align:center;">SE</td><td style="text-align:center;">FI</td><td style="text-align:center;">DK1</td><td style="text-align:center;">DK2</td><td style="text-align:center;">Oslo</td><td style="text-align:center;">Kr.sand</td><td style="text-align:center;">Bergen</td><td style="text-align:center;">Molde</td><td style="text-align:center;">Tr.heim</td><td style="text-align:center;">Tromsø</td><td style="text-align:center;">KT</td>
+				</tr>
+			</thead><tbody>
+				<tr>
+					<td style="text-align:left;">06&nbsp;-&nbsp;Jan</td><td style="text-align:right;">375,60</td><td style="text-align:right;">373,01</td><td style="text-align:right;">401,39</td><td style="text-align:right;">388,60</td><td style="text-align:right;">460,12</td><td style="text-align:right;">362,15</td><td style="text-align:right;">362,15</td><td style="text-align:right;">362,15</td><td style="text-align:right;">368,71</td><td style="text-align:right;">368,71</td><td style="text-align:right;">368,71</td><td style="text-align:right;">581,08</td>
+				</tr><tr>
+					<td style="text-align:left;">06&nbsp;-&nbsp;Feb</td><td style="text-align:right;">405,03</td><td style="text-align:right;">406,07</td><td style="text-align:right;">445,71</td><td style="text-align:right;">438,96</td><td style="text-align:right;">471,75</td><td style="text-align:right;">398,46</td><td style="text-align:right;">398,46</td><td style="text-align:right;">398,46</td><td style="text-align:right;">405,92</td><td style="text-align:right;">405,92</td><td style="text-align:right;">405,92</td><td style="text-align:right;">639,40</td>
+				</tr><tr>
+					<td style="text-align:left;">06&nbsp;-&nbsp;Mar</td><td style="text-align:right;">492,02</td><td style="text-align:right;">491,52</td><td style="text-align:right;">500,07</td><td style="text-align:right;">447,65</td><td style="text-align:right;">558,98</td><td style="text-align:right;">490,45</td><td style="text-align:right;">490,45</td><td style="text-align:right;">490,45</td><td style="text-align:right;">491,08</td><td style="text-align:right;">491,08</td><td style="text-align:right;">491,08</td><td style="text-align:right;">581,97</td>
+				</tr><tr>
+					<td style="text-align:left;">06&nbsp;-&nbsp;Apr</td><td style="text-align:right;">483,11</td><td style="text-align:right;">458,94</td><td style="text-align:right;">458,94</td><td style="text-align:right;">422,54</td><td style="text-align:right;">456,68</td><td style="text-align:right;">500,83</td><td style="text-align:right;">500,83</td><td style="text-align:right;">500,83</td><td style="text-align:right;">466,90</td><td style="text-align:right;">466,90</td><td style="text-align:right;">466,90</td><td style="text-align:right;">412,27</td>
+				</tr><tr>
+					<td style="text-align:left;">06&nbsp;-&nbsp;May</td><td style="text-align:right;">351,09</td><td style="text-align:right;">329,08</td><td style="text-align:right;">328,26</td><td style="text-align:right;">338,01</td><td style="text-align:right;">329,71</td><td style="text-align:right;">372,69</td><td style="text-align:right;">372,69</td><td style="text-align:right;">372,69</td><td style="text-align:right;">352,15</td><td style="text-align:right;">352,15</td><td style="text-align:right;">352,15</td><td style="text-align:right;">311,90</td>
+				</tr><tr>
+					<td style="text-align:left;">06&nbsp;-&nbsp;Jun</td><td style="text-align:right;">406,83</td><td style="text-align:right;">418,66</td><td style="text-align:right;">418,48</td><td style="text-align:right;">407,89</td><td style="text-align:right;">419,56</td><td style="text-align:right;">403,80</td><td style="text-align:right;">403,80</td><td style="text-align:right;">403,80</td><td style="text-align:right;">410,14</td><td style="text-align:right;">410,14</td><td style="text-align:right;">410,14</td><td style="text-align:right;">389,60</td>
+				</tr><tr>
+					<td style="text-align:left;">06&nbsp;-&nbsp;Jul</td><td style="text-align:right;">456,29</td><td style="text-align:right;">452,75</td><td style="text-align:right;">452,75</td><td style="text-align:right;">445,60</td><td style="text-align:right;">450,45</td><td style="text-align:right;">460,37</td><td style="text-align:right;">460,37</td><td style="text-align:right;">460,37</td><td style="text-align:right;">452,92</td><td style="text-align:right;">452,92</td><td style="text-align:right;">452,92</td><td style="text-align:right;">574,03</td>
+				</tr><tr>
+					<td style="text-align:left;">06&nbsp;-&nbsp;Aug</td><td style="text-align:right;">612,40</td><td style="text-align:right;">619,40</td><td style="text-align:right;">619,40</td><td style="text-align:right;">477,67</td><td style="text-align:right;">576,62</td><td style="text-align:right;">614,34</td><td style="text-align:right;">614,34</td><td style="text-align:right;">614,34</td><td style="text-align:right;">619,07</td><td style="text-align:right;">619,07</td><td style="text-align:right;">619,07</td><td style="text-align:right;">423,25</td>
+				</tr><tr>
+					<td style="text-align:left;">06&nbsp;-&nbsp;Sep</td><td style="text-align:right;">589,87</td><td style="text-align:right;">602,75</td><td style="text-align:right;">590,76</td><td style="text-align:right;">448,73</td><td style="text-align:right;">505,70</td><td style="text-align:right;">603,77</td><td style="text-align:right;">603,77</td><td style="text-align:right;">603,77</td><td style="text-align:right;">602,90</td><td style="text-align:right;">602,90</td><td style="text-align:right;">602,90</td><td style="text-align:right;">433,94</td>
+				</tr><tr>
+					<td style="text-align:left;">06&nbsp;-&nbsp;Oct</td><td style="text-align:right;">496,50</td><td style="text-align:right;">475,74</td><td style="text-align:right;">469,72</td><td style="text-align:right;">417,23</td><td style="text-align:right;">443,73</td><td style="text-align:right;">524,15</td><td style="text-align:right;">524,15</td><td style="text-align:right;">524,15</td><td style="text-align:right;">511,81</td><td style="text-align:right;">511,81</td><td style="text-align:right;">511,81</td><td style="text-align:right;">404,51</td>
+				</tr><tr>
+					<td style="text-align:left;">06&nbsp;-&nbsp;Nov</td><td style="text-align:right;">425,81</td><td style="text-align:right;">423,43</td><td style="text-align:right;">422,92</td><td style="text-align:right;">372,64</td><td style="text-align:right;">400,68</td><td style="text-align:right;">431,87</td><td style="text-align:right;">431,87</td><td style="text-align:right;">431,87</td><td style="text-align:right;">441,31</td><td style="text-align:right;">441,31</td><td style="text-align:right;">441,81</td><td style="text-align:right;">432,02</td>
+				</tr><tr>
+					<td style="text-align:left;">06&nbsp;-&nbsp;Dec</td><td style="text-align:right;">302,09</td><td style="text-align:right;">293,42</td><td style="text-align:right;">289,36</td><td style="text-align:right;">305,70</td><td style="text-align:right;">319,84</td><td style="text-align:right;">303,20</td><td style="text-align:right;">303,20</td><td style="text-align:right;">303,20</td><td style="text-align:right;">315,03</td><td style="text-align:right;">315,03</td><td style="text-align:right;">314,85</td><td style="text-align:right;">351,37</td>
+				</tr>
+			</tbody>
+		</table>
+	</body>
+</html>
